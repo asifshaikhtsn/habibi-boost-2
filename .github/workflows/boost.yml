@@ -13,4 +13,3 @@ jobs:
       dependencies: "aiohttp"
       commit_message: "Boost: update proxy lists [skip ci]"
       timeout_minutes: 120
-    secrets: inherit
